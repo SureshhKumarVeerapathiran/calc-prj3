@@ -97,5 +97,5 @@
                Clicked="OnCalculate" FontAttributes="Bold" BackgroundColor="LightGray"
                 FontSize="Medium"/>
 
-    </Grid>
+    </Grid/>
 </ContentPage>
